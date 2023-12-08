@@ -1,0 +1,9 @@
+.container {
+    border-radius: 5px;
+    box-shadow: 0 0 16px 1px #ccc;
+    padding: 20px;
+    background-color: #fff;
+    background-size: flex; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    color: black; /* Adjust text color for better contrast */
+  }
